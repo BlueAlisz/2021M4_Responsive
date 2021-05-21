@@ -48,3 +48,16 @@ body {
     }
     
 }
+@media screen and (max-width: 768px){
+    .content {
+        width: 100%;
+    }
+    .sideboard {
+        width: 100%;
+        background-color: darkgoldenrod;
+    }
+    .banner {
+        background-color: blue;
+    }
+    
+}

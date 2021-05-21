@@ -61,3 +61,12 @@ body {
     }
     
 }
+@media screen and (max-width: 1024px){
+    .content {
+        width: 50%;
+    }
+    .sideboard {
+        width: 50%;
+    }
+    
+}
